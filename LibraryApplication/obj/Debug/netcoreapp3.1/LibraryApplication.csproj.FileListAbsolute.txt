@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.exe
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.deps.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.dll
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\bin\Debug\netcoreapp3.1\LibraryApplication.pdb
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.dll
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.pdb
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 4\LibraryApplication\LibraryApplication\obj\Debug\netcoreapp3.1\LibraryApplication.genruntimeconfig.cache
